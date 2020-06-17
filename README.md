@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 # conceitos-reactjs
-Conceitos sober ReactJS aprendidos no Bootcamp GoStack
+Conceitos sobre ReactJS aprendidos no Bootcamp GoStack
 
 ## Sobre
 Esse é o meu resultado do segundo desafio do Bootcamp GoStack
